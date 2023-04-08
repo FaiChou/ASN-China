@@ -1,5 +1,5 @@
 // ASN Information in China. (https://github.com/missuo/ASN-China) 
-// Last Updated: UTC 2023-04-07 00:50:24
+// Last Updated: UTC 2023-04-08 00:52:27
 // Made by Vincent, All rights reserved. 
 
 IP-ASN,24429 // Zhejiang Taobao Network Co.,Ltd
@@ -142,7 +142,7 @@ IP-ASN,59074 // TAIKANG INSURANCE GROUP CO.,LTD.
 IP-ASN,59065 // PayPal Network Information Services (Shanghai) Co., Ltd.
 IP-ASN,58866 // China Financial Certification Authority
 IP-ASN,58811 // CONAC (China Organizational Name Administration Center)
-IP-ASN,58542 // China Telecom Yueyang
+IP-ASN,58542 // Tianjij,300000
 IP-ASN,56019 // Beijing ShuJuJia Technology Co., Ltd.
 IP-ASN,56015 // China Sports Lottery Technology Development Co., Ltd
 IP-ASN,56012 // LGNET China
@@ -315,7 +315,7 @@ IP-ASN,134760 // Shijiazhuang IDC network, CHINANET Hebei province
 IP-ASN,134756 // CHINANET Nanjing Jishan IDC network
 IP-ASN,134542 // China Unicom IP network
 IP-ASN,134420 // Chongqing Telecom
-IP-ASN,133774 // China Telecom Fujian Fuzhou IDC
+IP-ASN,133774 // Fuzhou
 IP-ASN,133475 // New York University ASN
 IP-ASN,131578 // Beijing Foreign Studies University
 IP-ASN,131558 // Wal-mart (China) Investment Co., Ltd.
@@ -556,7 +556,7 @@ IP-ASN,136197 // Xiong'an, Hebei Province, P.R.China.
 IP-ASN,136194 // Huangshi, Hubei Province, P.R.China.
 IP-ASN,136192 // Xiangyang, Hubei Province, P.R.China.
 IP-ASN,136191 // YICHANG, Hubei Province, P.R.China.
-IP-ASN,136190 // China Telecom DaLi
+IP-ASN,136190 // JINHUA, ZHEJIANG Province, P.R.China.
 IP-ASN,136188 // NINGBO, ZHEJIANG Province, P.R.China.
 IP-ASN,136160 // Beijing Shijihulian Yuntong Network Technology Co., Ltd.
 IP-ASN,136146 // Beijing 3389 Network Technology Co., Ltd.
